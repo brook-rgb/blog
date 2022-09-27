@@ -1,99 +1,25 @@
 ---
-title: Markdown Examples
+title: All That You Need to Know About Pip Spread Forex Brokers
 date: 2021/3/19
-description: View examples of all possible Markdown options.
+description: The smallest whole unit measurement of the spread between the ask and bid in a foreign currency quote is called a pip.
 tag: web development
 author: You
 ---
 
-# Markdown Examples
+The abbreviation "Pip" stands for price interest point or percentage in fact. According to customs on the forex market, a pip is the slightest whole unit price adjustment that an exchange rate can make.
 
-## h2 Heading
+The last decimal place of the price for most currency pairs is one pip. So, one basis point, 1/100 of 1%, equals one pip.
 
-### h3 Heading
+The slightest whole unit movement, for instance, allowed for the USD/CAD currency pair is $0.0001, or one basis point.
 
-#### h4 Heading
+Wondering what a pip is?
 
-##### h5 Heading
+Here we have the answer to all your queries.
 
-###### h6 Heading
+The smallest whole unit measurement of the spread between the ask and bid in a foreign currency quote is called a pip. A pip is one-hundredth of one per cent, or.0001. As a result, the forex quote has four decimal places. Fractional pips represent smaller price changes. One-tenth of a pip is a fractional pip.
 
-## Emphasis
+A fundamental idea in foreign exchange is the pip (forex). A currency whose value is expressed in relation to another currency is bought and sold by forex dealers. These currency quotes are displayed as bid and ask spreads, both of which are accurate to four decimal places.
 
-**This is bold text**
+Pips are the units used to measure exchange rate movement. The smallest whole unit change for most currency pairs, which are stated to a maximum of four decimal places, is one pip.
 
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
+Read more? Click: [Lowest Pip Spread Forex Brokers](https://fxbrokerreviews.org/blog/lowest-pip-spread-forex-brokers/) 
